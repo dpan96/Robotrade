@@ -1,0 +1,6 @@
+model_checkpoint_path: "best_model-3200"
+all_model_checkpoint_paths: "best_model-2780"
+all_model_checkpoint_paths: "best_model-3040"
+all_model_checkpoint_paths: "best_model-3090"
+all_model_checkpoint_paths: "best_model-3110"
+all_model_checkpoint_paths: "best_model-3200"
